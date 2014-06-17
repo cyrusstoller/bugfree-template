@@ -1,0 +1,7 @@
+# Mac OS specific
+.DS_Store
+
+# Text editor temp files
+*~
+
+/tmp/*
